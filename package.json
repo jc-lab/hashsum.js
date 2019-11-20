@@ -1,0 +1,27 @@
+{
+  "name": "@jc-lab/hashsum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hash",
+    "hashsum",
+    "md5sum",
+    "sha1sum"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc-lab/hashsum.js.git"
+  },
+  "author": "Joseph Lee <development@jc-lab.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jc-lab/hashsum.js/issues"
+  },
+  "homepage": "https://github.com/jc-lab/hashsum.js#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
