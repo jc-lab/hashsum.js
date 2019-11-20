@@ -104,5 +104,4 @@ fis.on('end', () => {
             }
         });
     }
-    process.exit(0);
 });
